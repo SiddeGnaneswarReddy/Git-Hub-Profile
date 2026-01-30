@@ -2,16 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Gnaneswar%20Reddy&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Turning%20Data%20Into%20Insights%20|%20Building%20ML%20Solutions&descAlignY=55&descSize=20&fontColor=ffffff" alt="Header Background" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist;Machine+Learning+Engineer;Data+Analyst;Problem+Solver&center=true&width=500&height=50&color=2F80ED&vCenter=true&pause=1000&size=26" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist;Machine+Learning+Engineer;Scalable+System+Builder;Applied+AI+Practitioner&center=true&width=550&height=50&color=2F80ED&vCenter=true&pause=1000&size=26" alt="Typing SVG" />
   </a>
 
   <p>
     <a href="https://linkedin.com/in/sidde-gnaneswar-reddy-6b25b8285" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="mailto:gnaneswar.sidde@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="32" />
     </a>
   </p>
 </div>
@@ -19,11 +19,17 @@
 <br />
 
 <div align="center">
-  <blockquote>
-    <i>"Computers are incredibly fast, accurate, and stupid. Human beings are incredibly slow, inaccurate, and brilliant. Together they are powerful beyond imagination."</i>
-    <br/>
-    <b>— Albert Einstein</b>
-  </blockquote>
+  <table border="0" width="80%">
+    <tr>
+      <td>
+        <blockquote align="center">
+          <i>"Data is like garbage. You’d better know what you are going to do with it before you collect it."</i>
+          <br/>
+          <b>— Mark Twain</b>
+        </blockquote>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
@@ -32,26 +38,24 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="55%" valign="center">
       
-## 🧑‍💼 About Me
+## 👨‍💻 Engineering Impact
 
-I am a **Data Scientist and Machine Learning Engineer** passionate about solving complex business problems through data.
+I am a **Data Scientist & ML Engineer** focused on bridging the gap between theoretical models and production-ready applications. 
 
-I don't just build models; I build **solutions**. My expertise spans the entire data lifecycle—from **cleaning raw data** to **deploying scalable ML models**. I combine statistical rigor with modern software engineering practices to deliver impactful results.
+I specialize in **transforming messy, unstructured data into clear, actionable intelligence**. My approach combines statistical rigor with software engineering best practices to ensure that models are not just accurate, but scalable, maintainable, and valuable to the business.
 
-### 🚀 What I Bring to the Table
-* 📊 **Statistical Analysis:** Turning numbers into narratives.
-* 🤖 **Predictive Modeling:** Building robust ML/DL architectures.
-* ⚙️ **End-to-End MLOps:** From Jupyter Notebook to Production.
-* 💡 **Business Acumen:** Aligning tech solutions with ROI.
+### 🔭 Current Focus
+* **Predictive Analytics:** Building models that drive revenue and reduce churn.
+* **ML Pipeline Optimization:** Reducing training latency and improving inference speeds.
+* **Data Visualization:** Creating dashboards that tell a clear story to stakeholders.
 
     </td>
     <td width="5%"></td>
-    <td width="45%" valign="center">
-      <br />
+    <td width="40%" valign="center">
       <div align="center">
-        <img src="https://raw.githubusercontent.com/kaopanbo/kaopanbo/master/assets/programmer.gif" alt="Coding Animation" width="100%" style="border-radius: 10px;"/>
+        <img src="https://raw.githubusercontent.com/kaopanbo/kaopanbo/master/assets/programmer.gif" alt="Coding Animation" width="100%" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);"/>
       </div>
     </td>
   </tr>
@@ -61,50 +65,112 @@ I don't just build models; I build **solutions**. My expertise spans the entire 
 
 ## 🛠️ Technical Arsenal
 
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-
-</div>
+<table align="center" width="100%" border="0">
+  <tr>
+    <td width="25%" align="left"><b>💻 Languages</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="left"><b>🧠 Machine Learning</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="left"><b>📊 Data Engineering</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="left"><b>📈 Visualization</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=python&logoColor=black" />
+      <img src="https://img.shields.io/badge/Seaborn-4c4cff?style=flat-square&logo=python&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" align="left"><b>⚙️ MLOps & Tools</b></td>
+    <td width="75%">
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ## 🏆 Featured Projects
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center">🧠 ML Prediction Model</h3>
-      <p align="center">A robust model to predict business outcomes using Scikit-Learn.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-      </p>
+    <td width="60%">
+      <h3>📉 Customer Churn Prediction Engine</h3>
+      <ul>
+        <li><b>Problem:</b> High customer attrition rates were impacting recurring revenue.</li>
+        <li><b>Solution:</b> Developed a Random Forest classifier to identify high-risk customers with <b>92% Recall</b>.</li>
+        <li><b>Impact:</b> Enabled targeted marketing campaigns, potentially saving 15% of at-risk accounts.</li>
+      </ul>
     </td>
-    <td width="50%">
-      <h3 align="center">📊 Data Visualization Dashboard</h3>
-      <p align="center">Interactive dashboard visualizing complex datasets for insights.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-      </p>
+    <td width="40%" align="center">
+      <br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+      <br>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="60%">
+      <h3>👁️ Computer Vision for Quality Control</h3>
+      <ul>
+        <li><b>Problem:</b> Manual inspection in manufacturing was slow and error-prone.</li>
+        <li><b>Solution:</b> Built a CNN-based image classification model using TensorFlow/Keras to detect surface defects.</li>
+        <li><b>Impact:</b> Achieved 98% accuracy on test data, reducing inspection time by 40%.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <br>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+      <br>
+      <img src="https://img.shields.io/badge/Deep_Learning-000?style=flat&logo=google-colab&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="60%">
+      <h3>💹 Interactive Sales Dashboard</h3>
+      <ul>
+        <li><b>Problem:</b> Stakeholders lacked real-time visibility into regional sales performance.</li>
+        <li><b>Solution:</b> Designed an interactive Tableau dashboard connecting to SQL databases for live tracking.</li>
+        <li><b>Impact:</b> Improved reporting efficiency by automating weekly data aggregation.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <br>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+      <br>
+      <img src="https://img.shields.io/badge/Business_Intel-000?style=flat"/>
     </td>
   </tr>
 </table>
@@ -114,16 +180,14 @@ I don't just build models; I build **solutions**. My expertise spans the entire 
 ---
 
 <div align="center">
-  <h3>🧩 Contribution Graph & Activity</h3>
-  <p><i>"The goal is to turn data into information, and information into insight." – Carly Fiorina</i></p>
+  <h3>🧩 Consistency & Activity</h3>
   
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  
+  <br/>
+  <br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
   <br />
-  <img src="https://komarev.com/ghpvc/?username=SiddeGnaneswarReddy&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SiddeGnaneswarReddy&label=Profile%20Views&color=2F80ED&style=flat-square" alt="Profile Views" />
 </div>

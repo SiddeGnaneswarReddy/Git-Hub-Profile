@@ -36,30 +36,26 @@
 
 ---
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="55%" valign="center">
-      
 ## 👨‍💻 Engineering Impact
 
 I am a **Data Scientist & ML Engineer** focused on bridging the gap between theoretical models and production-ready applications. 
 
-I specialize in **transforming messy, unstructured data into clear, actionable intelligence**. My approach combines statistical rigor with software engineering best practices to ensure that models are not just accurate, but scalable, maintainable, and valuable to the business.
+I specialize in **transforming messy, unstructured data into clear, actionable intelligence**. My approach combines statistical rigor with software engineering best practices to ensure that models are not just accurate, but **scalable, maintainable, and valuable** to the business.
 
-### 🔭 Current Focus
-* **Predictive Analytics:** Building models that drive revenue and reduce churn.
-* **ML Pipeline Optimization:** Reducing training latency and improving inference speeds.
-* **Data Visualization:** Creating dashboards that tell a clear story to stakeholders.
+<br/>
 
-    </td>
-    <td width="5%"></td>
-    <td width="40%" valign="center">
-      <div align="center">
-        <img src="https://raw.githubusercontent.com/kaopanbo/kaopanbo/master/assets/programmer.gif" alt="Coding Animation" width="100%" style="border-radius: 8px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);"/>
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h3>🔭 Current Focus</h3>
+  <img src="https://img.shields.io/badge/Predictive_Analytics-Building_Revenue_Models-2F80ED?style=for-the-badge&logo=google-analytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ML_Optimization-Reducing_Latency-2F80ED?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Viz-Storytelling_with_Data-2F80ED?style=for-the-badge&logo=tableau&logoColor=white"/>
+</div>
+
+<br />
+
+<div align="center">
+   <img src="https://raw.githubusercontent.com/kaopanbo/kaopanbo/master/assets/programmer.gif" alt="Coding Animation" width="400" style="border-radius: 8px; opacity: 0.9;"/>
+</div>
 
 <br/>
 
